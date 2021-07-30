@@ -1,2 +1,2 @@
 # Vego
-VectorEdge's Standardized Authorization SDK
+VectorEdge's Authorization  Standardization SDK
